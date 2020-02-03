@@ -16,7 +16,9 @@ pip install -r requirements.txt
 
 ## 크롬 드라이버
 
-코드를 실행하기 위해서 크롬 드라이버(chromedriver)의 설치가 필요합니다. 크롬 드라이버는 구글 크롬에서 자동화 작업을 가능하게 해주는 크롬 실행 파일입니다. 저는 [78.0.3904.105 버전](<https://chromedriver.storage.googleapis.com/78.0.3904.105/chromedriver_win32.zip>)(윈도우)을 사용했습니다. 코드와 같은 경로에 chromedriver.exe를 넣어주시면 됩니다.
+코드를 실행하기 위해서 크롬 드라이버(chromedriver)의 설치가 필요합니다. 크롬 드라이버는 구글 크롬에서 자동화 작업을 가능하게 해주는 크롬 실행 파일입니다.
+
+저는 [78.0.3904.105 버전](<https://chromedriver.storage.googleapis.com/78.0.3904.105/chromedriver_win32.zip>)(윈도우)을 사용했습니다. 코드와 같은 경로에 chromedriver.exe를 넣어주시면 됩니다.
 
 
 ## 기타
